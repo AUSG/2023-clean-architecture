@@ -6,6 +6,7 @@
   - 2장 두 가지 가치에 대한 이야기
   - 3장 패러다임 개요
   - 4장 구조적 프로그래밍
+
 - [2주차](https://github.com/AUSG/2023-clean-architecture/tree/main/02%EC%A3%BC%EC%B0%A8)
   - 5장 객체 지향 프로그래밍
   - 6장 함수형 프로그래밍
@@ -14,6 +15,38 @@
   - 9장 LSP: 리스코프 치환 원칙
   - 10장 ISP: 인터페이스 분리 원칙
   - 11장 DIP: 의존성 역전 원칙
+
+- [3주차](https://github.com/AUSG/2023-clean-architecture/tree/main/03%EC%A3%BC%EC%B0%A8)
+  - 12장 컴포넌트
+  - 13장 컴포넌트 응집도
+  - 14장 컴포넌트 결합
+  - 15장 아키텍처란?
+  - 16장 독립성
+  - 17장 경계: 선 긋기
+  - 18장 경계 해부학
+  - 19장 정책과 수준
+
+- [4주차](https://github.com/AUSG/2023-clean-architecture/tree/main/04%EC%A3%BC%EC%B0%A8)
+  - 20장 업무 규칙
+  - 21장 소리치는 아키텍처
+  - 22장 클린 아키텍처
+  - 23장 프레젠터와 험블 객체
+  - 24장 부분적 경계
+  - 25장 계층과 경계
+  
+- [5주차](https://github.com/AUSG/2023-clean-architecture/tree/main/05%EC%A3%BC%EC%B0%A8)
+  - 26장 메인(Main) 컴포넌트
+  - 27장 ‘크고 작은 모든’ 서비스들
+  - 28장 테스트 경계
+  - 29장 클린 임베디드 아키텍처
+  - 30장 데이터베이스는 세부사항이다
+
+- [6주차](https://github.com/AUSG/2023-clean-architecture/tree/main/06%EC%A3%BC%EC%B0%A8)
+  - 31장 웹은 세부사항이다
+  - 32장 프레임워크는 세부사항이다
+  - 33장 사례 연구: 비디오 판매
+  - 34장 빠져 있는 장
+  - 부록 A 아키텍처 고고학
 
 ## 스터디 룰 
 - 스터디는 매주 일요일 오전 10시 진행
